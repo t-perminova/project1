@@ -1,0 +1,115 @@
+.1_2 { 
+	overflow:hidden;
+}
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1905px;
+	height:939px;
+	position:absolute;
+}
+.e2_3 { 
+	width:1903px;
+	height:939px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(../img/___________1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e4_3 { 
+	width:451px;
+	height:638px;
+	position:absolute;
+	left:267px;
+	top:249px;
+	background-image:url(../img/_______1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e24_5 { 
+	width:626px;
+	height:136px;
+	position:absolute;
+	left:639px;
+	top:65px;
+}
+.e6_4 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.5);
+	width:626px;
+	height:136px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
+.e6_5 { 
+	color:rgba(0, 0, 0, 1);
+	width:324px;
+	height:136px;
+	position:absolute;
+	left:151px;
+	top:0px;
+	font-family:Roboto Slab;
+	text-align:left;
+	font-size:100px;
+	letter-spacing:0;
+}
+.e6_6 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.5);
+	width:555px;
+	height:677px;
+	position:absolute;
+	left:1180px;
+	top:236px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
+.e6_9 { 
+	color:rgba(0, 0, 0, 1);
+	width:533px;
+	height:718px;
+	position:absolute;
+	left:1202px;
+	top:254px;
+	font-family:Shadows Into Light;
+	text-align:left;
+	font-size:65px;
+	letter-spacing:0;
+}
+.e22_4 { 
+	width:255px;
+	height:69px;
+	position:absolute;
+	left:897px;
+	top:840px;
+}
+.e20_2 { 
+	background-color:rgba(189.00000393390656, 229.00000154972076, 117.00000062584877, 1);
+	width:233.9256134033203px;
+	height:61px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:40px;
+	border-top-right-radius:40px;
+	border-bottom-left-radius:40px;
+	border-bottom-right-radius:40px;
+}
+.e22_3 { 
+	color:rgba(0, 0, 0, 1);
+	width:214.95867919921875px;
+	height:69px;
+	position:absolute;
+	left:40px;
+	top:0px;
+	font-family:Shadows Into Light;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
