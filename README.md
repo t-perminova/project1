@@ -1,5 +1,4 @@
 # Jessie
-___
 This is my first full-fledged project in Intellij IDEA. The project is a web page that opens in the browser using the [link](http://localhost8080).
 The page contains information about the superpower of the character from the game Brawl Stars
 ___
